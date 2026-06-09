@@ -1,0 +1,18 @@
+{
+  "name": "フォーカス・畑",
+  "short_name": "畑",
+  "description": "集中するたび畑に植物が育つポモドーロタイマー",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a2a3a",
+  "theme_color": "#2d4a3e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
